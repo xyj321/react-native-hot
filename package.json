@@ -1,0 +1,30 @@
+{
+  "name": "react-native-hot",
+  "version": "5.6.0",
+  "description": "react-native hot",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-lib": "$ANDROID_HOME/ndk-bundle/ndk-build NDK_PROJECT_PATH=android APP_BUILD_SCRIPT=android/jni/Android.mk NDK_LIBS_OUT=android/lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactnativecn/react-native-pushy.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+"Hot"
+  ],
+  "author": "reactnativecn",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/reactnativecn/react-native-pushy/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.27.0"
+  },
+  "homepage": "https://github.com/reactnativecn/react-native-pushy#readme",
+  "dependencies": {}
+}

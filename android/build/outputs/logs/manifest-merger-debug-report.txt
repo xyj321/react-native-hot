@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:4:5-6:19
+meta-data#pushy_build_time
+ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:5:9-95
+	android:value
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:5:52-92
+	android:name
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml:5:20-51
+uses-sdk
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xyj/Desktop/pro/465/xyj321-business/XYJOA/node_modules/react-native-hot/android/src/main/AndroidManifest.xml
